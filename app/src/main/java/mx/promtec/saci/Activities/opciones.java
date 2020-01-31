@@ -172,7 +172,7 @@ public class opciones extends AppCompatActivity {
             if (i % 2 == 0)
             {
 //                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.boton_verde_2));
-                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.spaghetti));
+                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.puercoempanizado));
             }else{
 //                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.boton_azul_2));
                 icon.setBackground(ContextCompat.getDrawable(context, R.drawable.pechuga));
@@ -180,7 +180,7 @@ public class opciones extends AppCompatActivity {
             if (i % 5 == 0)
             {
 //                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.boton_rojo2));
-                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.polloasado));
+                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.tirasdepollocrujiente));
             }
             LinearLayout.LayoutParams icon_param = new LinearLayout.LayoutParams(170, 170);
             icon_param.setMargins(0, 60, 0, 0);
