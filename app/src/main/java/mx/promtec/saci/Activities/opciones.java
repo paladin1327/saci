@@ -27,6 +27,8 @@ public class opciones extends AppCompatActivity {
 
         click_back();
         lista_estado();
+        //modificar para llamar el ws que devuelve las comidas
+        //validar el tipo de comida y mostrar la imagen
     }
     public void lista_estado(){
         remove_back();
