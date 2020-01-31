@@ -172,7 +172,7 @@ public class opciones extends AppCompatActivity {
             if (i % 2 == 0)
             {
 //                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.boton_verde_2));
-                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.puercoempanizado));
+                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.chuletas));
             }else{
 //                icon.setBackground(ContextCompat.getDrawable(context, R.drawable.boton_azul_2));
                 icon.setBackground(ContextCompat.getDrawable(context, R.drawable.pechuga));
